@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\Proyecto definitivo.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\Proyecto definitivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\Proyecto definitivo.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\Proyecto definitivo.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\Proyecto definitivo.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Proyecto definitivo\bin\Debug\net6.0\Proyecto definitivo.exe
+C:\Users\Sena\source\repos\Proyecto definitivo\bin\Debug\net6.0\Proyecto definitivo.deps.json
+C:\Users\Sena\source\repos\Proyecto definitivo\bin\Debug\net6.0\Proyecto definitivo.runtimeconfig.json
+C:\Users\Sena\source\repos\Proyecto definitivo\bin\Debug\net6.0\Proyecto definitivo.dll
+C:\Users\Sena\source\repos\Proyecto definitivo\bin\Debug\net6.0\Proyecto definitivo.pdb
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\Proyecto definitivo.dll
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\refint\Proyecto definitivo.dll
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\Proyecto definitivo.pdb
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\Proyecto definitivo.genruntimeconfig.cache
+C:\Users\Sena\source\repos\Proyecto definitivo\obj\Debug\net6.0\ref\Proyecto definitivo.dll
